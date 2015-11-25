@@ -1,6 +1,6 @@
 name: Bugsy Segal
 favicon: null
-layout_spectrum: 0.23577
+layout_spectrum: 0.49271
 typography_spectrum: 0.23075
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#091128'
-    - '#a57302'
-    - '#555459'
-    - '#fec225'
-    - '#fffbe0'
+    - '#5396cd'
+    - '#276598'
+    - '#f5fdfe'
+    - '#00212d'
+    - '#adc0d1'
   brandStrength: 1
-  lightness: 0.4375
-  saturation: 0.875
-  rhythmicContrast: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
